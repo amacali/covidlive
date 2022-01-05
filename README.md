@@ -67,7 +67,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 - **2 Jan 22** updated `RECOV_CNT` for NSW to standard formula (backdated to 1 Nov 21)
 - **22 Nov 21** added `VACC_BOOSTER_CNT` for Australia
 - **25 Oct 21** added `VACC_FIRST_DOSE_CNT_12_15` and `VACC_PEOPLE_CNT_12_15` to enable 12+ projections
-- **4 July 20** a total of 189 historic cases reported in crew members on board the Ruby Princess have been reclassified as Australian cases and are now included in NSW totals reported by the Commonwealth Department of Health.
+- **4 July 20** a total of 189 historic `CASE_CNT` reported in crew members on board the Ruby Princess have been reclassified as Australian cases and are now included in NSW totals reported by the Commonwealth Department of Health.
 
 
 ## License ##
