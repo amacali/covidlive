@@ -21,6 +21,7 @@ Our COVID-19 dataset is available in [CSV](https://covidlive.com.au/covid-live.c
 | --- | --- |
 | `CASE_CNT` | Total confirmed cases for COVID-19 |
 | `NEW_CASE_CNT` | New cases in the last 24 hours |
+| `PROB_CASE_CNT` | Total confirmed rapid antigen test cases for COVID-19. Included in `CASE_CNT` total |
 | `TEST_CNT` | Total tests for COVID-19 |
 | `DEATH_CNT` | Total deaths attributed to COVID-19 |
 | `ACTIVE_CNT` | Total active cases for COVID-19 |
@@ -64,6 +65,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **8 Jan 22** added `PROB_CASE_CNT` for self-reported rapid antigen test results
 - **2 Jan 22** updated `RECOV_CNT` for NSW to standard formula (backdated to 1 Nov 21)
 - **22 Nov 21** added `VACC_BOOSTER_CNT` for Australia
 - **25 Oct 21** added `VACC_FIRST_DOSE_CNT_12_15` and `VACC_PEOPLE_CNT_12_15` to enable 12+ projections
