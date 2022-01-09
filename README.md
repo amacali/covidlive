@@ -65,8 +65,8 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **9 Jan 22** updated `MED_HOSP_CNT` for NT to territory health department figures (backdated to 20 Dec 21)
 - **8 Jan 22** added `PROB_CASE_CNT` for self-reported rapid antigen test results
-- **7 Jan 22** updated `MED_HOSP_CNT` for NT to territory health department figures (backdated to 20 Dec 21)
 - **2 Jan 22** updated `RECOV_CNT` for NSW to standard formula (backdated to 1 Nov 21)
 - **22 Nov 21** added `VACC_BOOSTER_CNT` for Australia
 - **25 Oct 21** added `VACC_FIRST_DOSE_CNT_12_15` and `VACC_PEOPLE_CNT_12_15` to enable 12+ projections
