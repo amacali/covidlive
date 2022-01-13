@@ -48,6 +48,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 | --- | --- |
 | `VACC_FIRST_DOSE_CNT` | Total number of people who received one dose |
 | `VACC_FIRST_DOSE_CNT_12_15` | Total number of 12-15 year olds who received one dose |
+| `VACC_FIRST_DOSE_CNT_5_11` | Total number of 5-11 year olds who received one dose |
 | `VACC_PEOPLE_CNT` | Total number of people who received two doses |
 | `VACC_PEOPLE_CNT_12_15` | Total number of 12-15-year olds who received two doses |
 | `VACC_BOOSTER_CNT` | Total number of people who received more than two doses |
