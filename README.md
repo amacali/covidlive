@@ -67,7 +67,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 ## Changelog ##
 - **12 Jul 22** added `VACC_WINTER_CNT` for fourth doses
-- **1 Apr 22** significant reclassified for `DEATH_CNT` in NSW (https://twitter.com/NSWHealth/status/1509319720256032771)
+- **1 Apr 22** significant reclassified for `DEATH_CNT` in [NSW](https://twitter.com/NSWHealth/status/1509319720256032771)
 - **16 Feb 22** updated `CASE_CNT` for VIC and QLD to state health department figures (backdated to 8 Jan 21)
 - **31 Jan 22** updated `CASE_CNT` for NSW and SA to state health department figures (backdated to 13 Jan 21)
 - **28 Jan 22** added `NEW_PROB_CASE_CNT` and reconciled totals for ACT and NSW
