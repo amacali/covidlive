@@ -66,6 +66,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **9 Sep 22** jurisdictions moved from daily reporting to weekly reporting (every Friday).
 - **12 Jul 22** added `VACC_WINTER_CNT` for fourth doses
 - **1 Apr 22** significant reclassified for `DEATH_CNT` in [NSW](https://twitter.com/NSWHealth/status/1509319720256032771)
 - **16 Feb 22** updated `CASE_CNT` for VIC and QLD to state health department figures (backdated to 8 Jan 21)
