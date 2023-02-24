@@ -66,7 +66,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
-- **17 Feb 23** update to 7-day rolling average `MED_HOSP_CNT` for TAS
+- **17 Feb 23** change to 7-day rolling average `MED_HOSP_CNT` for TAS
 - **3 Feb 23** cumulative `DEATH_CNT` total for WA unavailable due to dashboard decomission
 - **21 Oct 22** active cases are no longer reported following removal of mandatory isolation periods
 - **9 Sep 22** jurisdictions moved from daily reporting to weekly reporting (every Friday)
