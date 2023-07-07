@@ -66,6 +66,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **7 July 23** RAT positive cases no longer included in VIC numbers
 - **14 Mar 23** refreshed LGA history `CASE_CNT` for QLD to include RATs
 - **17 Feb 23** change `MED_HOSP_CNT` to new admissions in the last 7 days for TAS
 - **3 Feb 23** cumulative `DEATH_CNT` total for WA unavailable due to dashboard decomission
