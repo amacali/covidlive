@@ -66,6 +66,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **10 November 23** switch to new data source for `CASE_CNT` https://nindss.health.gov.au/pbi-dashboard/
 - **7 July 23** rapid antigen `PROB_CASE_CNT` positive cases no longer included in VIC numbers
 - **12 May 23** change to `DEATH_CNT` source for QLD
 - **14 Mar 23** refreshed LGA history `CASE_CNT` for QLD to include RATs
