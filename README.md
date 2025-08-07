@@ -66,6 +66,7 @@ Vaccination data is sourced from the [Australian Government Department of Health
 
 
 ## Changelog ##
+- **7 Aug 25** consolidated sources for `DEATH_CNT` to update https://www.abs.gov.au/articles/deaths-due-covid-19-influenza-and-rsv-australia-2023-may-2025
 - **10 Nov 23** switch to new data source for `CASE_CNT` https://nindss.health.gov.au/pbi-dashboard/
 - **7 July 23** rapid antigen `PROB_CASE_CNT` positive cases no longer included in VIC numbers
 - **12 May 23** change to `DEATH_CNT` source for QLD
